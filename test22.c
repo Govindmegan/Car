@@ -1,6 +1,6 @@
 #include<stdio.h>
 int i = 1;
-while (i <= 200)
+while (i <= 1200)
 {
 
 	printf("ROCK THE STAGE\n");

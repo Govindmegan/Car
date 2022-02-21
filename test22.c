@@ -3,6 +3,6 @@ int i = 1;
 while (i <= 200)
 {
 
-	printf("ROCKS\n");
+	printf("ROCK THE STAGE\n");
 	i=i+1;
 }
